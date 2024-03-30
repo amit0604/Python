@@ -1,0 +1,189 @@
+﻿WomanID,Year,Age,Region,Origin,Relagion,NumKillers,Killer,Weapon,Known,IsWoman,Status,WhereBody,Background,BodyTime
+1,04/01/2021,53,south,IL,jew,1,husband,bruteforce,no,no,suspect arrested,home,fight,hours
+2,16/11/2020,37,north,IL,muslim,1,devorce,sharptool,yes,no,arrested,street,castidy,hours
+3,19/10/2020,35,north,IL,muslim,1,partner,knife,no,no,suspect arrested,home,racism,hours
+4,27/02/2021,69,north,IL,jew,2,son,bruteforce,no,no,suspect arrested,street,two brother attacked mother,hours
+5,18/02/2021,76,north,unknown,unknown,1,son,knife,unknown,no,suspect arrested,home,mother son conflict,hours
+6,05/02/2021,35,unknown,IL,jew,1,partner,pistol,no,no,suspect arrested,home,conflict,hours
+7,19/10/2020,66,south,russian,jew,1,partner,hammer,no,no,suspect arrested,home,conflict,hours
+8,10/09/2020,27,south,ILArab,muslim,1,unknown,pistol,yes,no,uncaught,street,brother threat,hours
+9,02/07/2020,40,north,stranger,muslim,1,partner,knife,no,no,suspect arrested,stairs,marrige fight,hours
+10,02/06/2020,28,south,ILArab,muslim,1,partner,bruteforce,no,no,uncaught,hospital,marrige fight,hours
+11,01/03/2020,36,north,ILArab,muslim,1,brother,pistol,yes,no,uncaught,car,relatives fight,hours
+12,01/05/2021,52,north,russian,unknown,2,son husband,byhands,no,no,suspect arrested,home,relatives fight ,hours
+13,28/03/2020,21,south,ILArab,muslim,3,father brother neice,knife,no,no,suspect arrested,street,relatives fight,hours
+14,16/05/2020,22,central,IL,jew,1,partner,byhands,no,no,suspect arrested,home,relatives fight,hours
+15,02/05/2020,51,central,russian,unknown,1,partner,knife,no,no,suspect arrested,home,relatives fight ,hours
+16,28/04/2020,31,central,nigger,unknown,1,partner,knife,yes,no,suspect arrested,home,relatives fight ,hours
+17,17/04/2020,42,central,ILArab,unknown,1,unknown,pistol,no,no,uncaught,home,unknown,hours
+18,18/03/2020,19,north,ILArab,muslim,1,unknown,pistol,no,no,suspect arrested,street,unknown,hours
+19,14/03/2020,56,central,IL,unknown,1,partner,pistol,no,no,suspect arrested,street,relatives fight ,hours
+20,17/01/2020,57,central,russian,unknown,1,partner,pistol,no,no,kill him self,home,relatives fight,hours
+21,14/01/2020,35,south,ILArab,badui,1,partner,byhands,no,no,uncaught,home,relatives fight,hours
+22,03/11/2019,70,south,IL,jew,1,partner,pistol,no,no,suspect arrested,home,relatives fight,hours
+23,11/10/2019,29,north,russian,jew,1,partner,knife,no,no,suspect arrested,home,relatives fight ,hours
+24,03/10/2019,32,south,IL,jew,1,partner,knife,no,no,suspect arrested,home,relatives fight ,hours
+25,28/07/2019,83,north,ILArab,muslim,1,son,knife,yes,no,suspect arrested,home,relatives fight ,hours
+26,26/07/2019,65,central,IL,unknown,1,son,knife,no,no,suspect arrested,home,relatives fight ,hours
+27,28/04/2019,65,central,IL,unknown,1,son,byhands,no,no,suspect arrested,home,relatives fight ,hours
+28,11/04/2019,19,central,ILArab,muslim,1,son,byhands,yes,no,suspect arrested,home,relatives fight ,weeks
+29,30/03/2019,31,north,ILArab,muslim,1,partner,byhands,no,no,suspect arrested,home,relatives fight ,hours
+30,13/03/2019,18,central,ILArab,muslim,1,unknown,pistol,yes,no,unknown,home,unknown,hours
+31,06/03/2019,20,north,ILArab,muslim,2,brother father,byhands,no,no,suspect arrested,home,relatives fight ,hours
+32,11/01/2019,54,global,IL,unknown,1,brother,unknown,no,no,suspect arrested,home,relatives fight ,hours
+33,11/01/2019,63,south,IL,unknown,1,son,unknown,no,no,suspect arrested,home,relatives fight ,hours
+34,27/12/2018,29,ramle,ILArab,unknown,2,relatives,pistol,no,no,suspect arrested,home,relatives fight ,hours
+35,11/12/2018,29,north,ILArab,muslim,1,partner,knife,no,no,suspect arrested,home,relatives fight ,hours
+36,26/11/2018,12,central,stranger,unknown,1,father,byhands,yes,no,suspect arrested,home,relatives fight ,hours
+37,26/11/2018,16,north,ILArab,unknown,2,unknown,knife,no,no,suspect arrested,home,unknown,hours
+38,21/11/2018,43,south,ILArab,unknown,1,brother,pistol,yes,no,suspect arrested,home,relatives fight ,hours
+39,14/10/2018,36,central,nigger,unknown,1,partner,pistol,no,no,suspect arrested,home,relatives fight,hours
+40,11/10/2018,51,central,IL,jew,1,partner,knife,yes,no,suspect arrested,home,relatives fight ,hours
+41,28/09/2018,62,central,IL,jew,1,partner,pistol,no,no,kill him self,home,relatives fight,hours
+42,25/09/2018,22,south,ILArab,muslim,unknown,unknown,pistol,no,no,suspect arrested,home,relatives fight ,hours
+43,02/08/2018,unknown,central,ILArab,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+44,01/08/2018,62,north,ILArab,muslim,unknown,relatives,byhands,no,no,suspect arrested,home,relatives fight ,hours
+45,10/07/2018,56,central,IL,jew,1,partner,unknown,yes,no,suspect arrested,home,relatives fight ,hours
+46,10/06/2018,36,north,nigger,unknown,1,partner,knife,no,no,prison,home,relatives fight ,hours
+47,07/06/2018,52,central,ILArab,muslim,2,dautgher partner,knife,no,yes,prison,home,relatives fight ,hours
+48,28/05/2018,33,central,ILArab,muslim,unknown,relatives,unknown,no,no,suspect arrested,street,unknown,hours
+49,17/05/2018,21,central,ILArab,muslim,1,brother,knife,yes,no,suspect arrested,home,relatives fight ,hours
+50,17/05/2018,19,central,ILArab,muslim,1,brother,knife,yes,no,suspect arrested,home,relatives fight ,hours
+51,03/04/2018,63,central,russian,unknown,1,son,hammer,no,no,suspect arrested,home,relatives fight ,hours
+52,28/03/2018,53,central,stranger,unknown,1,partner,knife,yes,no,prison,home,relatives fight ,hours
+53,11/03/2018,91,central,unknown,unknown,1,son,pistol,no,no,kill him self,home,relatives fight ,hours
+54,01/02/2018,45,south,unknown,jew,1,son,knife,yes,no,suspect arrested,home,relatives fight ,hours
+55,29/01/2018,70,central,russian,unknown,1,son,byhands,no,no,suspect arrested,home,relatives fight ,hours
+56,21/12/2017,36,central,nigger,unknown,1,partner,knife,yes,no,suspect arrested,home,relatives fight ,hours
+57,11/07/2017,41,south,russian,unknown,1,partner,knife,yes,no,suspect arrested,home,relatives fight ,hours
+58,13/06/2017,18,central,ILArab,unknown,1,father,knife,yes,no,suspect arrested,home,relatives fight ,hours
+59,12/06/2017,63,central,IL,unknown,1,partner,byhands,no,no,suspect arrested,home,relatives fight ,hours
+60,11/06/2017,40,central,IL,unknown,1,partner,knife,no,no,suspect arrested,home,relatives fight,hours
+61,28/05/2017,29,central,IL,unknown,1,partner,unknown,no,no,suspect arrested,home,relatives fight ,hours
+62,03/05/2017,19,south,ILArab,unknown,1,causin,byhands,yes,no,prison,home,relatives fight ,hours
+63,15/04/2017,30,south,unknown,unknown,1,partner,byhands,no,no,kill him self,home,relatives fight ,hours
+64,03/04/2017,35,north,ILArab,unknown,1,partner,pistol,yes,no,suspect arrested,home,relatives fight,hours
+65,29/03/2017,30,north,unknown,jew,1,partner,knife,yes,no,suspect arrested,home,relatives fight ,hours
+66,26/03/2017,29,central,ILArab,unknown,1,relatives,pistol,no,no,suspect arrested,home,unknown,hours
+67,17/03/2017,35,central,IL,unknown,1,partner,unknown,yes,no,suspect arrested,home,unknown,hours
+68,28/01/2017,23,south,IL,jew,1,partner,knife,no,no,suspect arrested,home,relatives fight ,hours
+69,15/01/2017,66,south,unknown,unknown,1,son,byhands,yes,no,suspect arrested,home,relatives fight,hours
+70,30/12/2011,51,north,unknown,unknown,1,husband,byhands,no,no,unknown,home,relatives fight,hours
+71,27/12/2011,59,north,ILArab,unknown,1,son,knife,yes,no,unknown,hospital,relatives fight ,hours
+72,16/12/2011,44,south,IL,jew,1,devorce,gun,yes,no,kill him self,home,partnerconflict,hours
+73,11/01/2011,45,north,nigger,unknown,1,devorce,pistol,no,no,kill him self,hospital,partnerconflict,hours
+74,21/11/2011,30,south,nigger,unknown,1,neighbor,knife,yes,no,kill him self,office,unknown,hours
+75,24/10/2011,24,central,ILArab,unknown,1,husband,pistol,yes,no,prison,graveyard,relatives fight,hours
+76,10/09/2011,36,north,russian,unknown,1,partner,burnalive,unknown,no,prison,car,partnerconflict,hours
+77,06/09/2011,72,north,IL,unknown,1,son,byhands,unknown,no,prison,home,relatives fight,hours
+78,06/09/2011,30,central,russian,unknown,1,partner,knife,unknown,no,prison,home,partnerconflict,days
+79,29/08/2011,54,central,stranger,unknown,1,husband,knife,no,no,prison,hotel,relatives fight ,hours
+80,16/07/2011,20,north,ILArab,druz,1,unknown,pistol,unknown,no,unknown,forest,unknown,days
+81,15/07/2011,17,unknown,ILArab,unknown,1,brother,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+82,17/06/2011,31,south,ILArab,unknown,1,brother,knife,yes,no,prison,garden,relatives fight,hours
+83,15/06/2011,30,south,stranger,arith,1,husband,knife,no,no,kill him self,home,relatives fight ,hours
+84,06/05/2011,28,central,ILArab,unknown,2,devorce causin,pistol,unknown,no,prison,home,relatives fight,hours
+85,20/04/2011,45,north,russian,unknown,1,partner,knife,no,no,prison,factory,partnerconflict,hours
+86,14/04/2011,50,central,IL,jew,1,partner,pistol,no,no,kill him self,home,partnerconflict,hours
+87,05/04/2011,28,central,ILArab,unknown,1,husband,pistol,unknown,no,prison,graveyard,relatives fight,hours
+88,03/04/2011,29,north,IL,jew,1,husband,knife,unknown,no,prison,home,relatives fight,hours
+89,27/02/2011,58,north,IL,jew,1,husband,pistol,yes,no,kill him self,home,relatives fight ,hours
+90,27/02/2011,40,north,unknown,unknown,1,husband,knife,yes,no,kill him self,home,relatives fight ,hours
+91,03/02/2011,19,south,ILArab,unknown,1,motherinlaw,pistol,unknown,yes,prison,home,relatives fight,hours
+92,24/01/2011,20,south,stranger,arith,1,husband,knife,unknown,no,prison,busstation,relatives fight,hours
+93,20/01/2011,19,central,ILArab,unknown,1,partner,pistol,yes,no,unknown,taxi,partnerconflict,hours
+94,09/01/2011,41,south,russian,unknown,1,devorce,knife,yes,no,kill him self,home,partnerconflict,hours
+95,05/01/2011,40,south,IL,jew,1,partner,byhands,yes,no,prison,garden,partnerconflict,hours
+96,30/12/2012,30,central,stranger,arith,1,husband,knife,no,no,suspect arrested,home,relatives fight ,hours
+97,06/12/2012,30,south,russian,unknown,1,husband,pistol,no,no,prison,unknown,relatives fight ,hours
+98,26/11/2012,15,south,ILArab,unknown,1,brother,knife,yes,no,prison,unknown,relatives fight,hours
+99,19/11/2012,50,south,russian,unknown,1,partner,knife,yes,no,prison,unknown,partnerconflict,hours
+100,29/10/2012,53,central,nigger,unknown,1,husband,pistol,unknown,no,prison,home,relatives fight,hours
+101,18/09/2012,38,south,stranger,Philip,1,husband,knife,unknown,no,prison,home,relatives fight,hours
+102,14/09/2012,19,north,ILArab,unknown,1,fionse,knife,no,no,kill him self,forest,relatives fight,hours
+103,09/09/2012,22,central,ILArab,unknown,1,brother,knife,unknown,no,prison,home,relatives fight,hours
+104,26/08/2012,33,north,IL,jew,1,husband,knife,yes,no,prison,home,relatives fight,hours
+105,10/08/2012,30,central,stranger,arith,1,husband,knife,yes,no,suspect arrested,hole,relatives fight,hours
+106,05/08/2012,46,north,ILArab,jew,1,husband,pistol,unknown,no,kill him self,home,relatives fight,hours
+107,13/07/2012,42,central,nigger,unknown,1,partner,knife,unknown,no,suspect arrested,home,partnerconflict,hours
+108,04/07/2012,17,central,stranger,unknown,1,husband,knife,unknown,no,suspect arrested,home,relatives fight,hours
+109,28/05/2012,26,north,ILArab,unknown,1,hitman,pistol,unknown,no,uncaught,unknown,unknown,hours
+110,24/05/2012,37,south,nigger,unknown,1,husband,knife,no,no,prison,home,relatives fight,hours
+111,18/04/2012,61,south,russian,unknown,1,unknown,byhands,yes,no,unknown,home,unknown,hours
+112,14/04/2012,63,central,IL,unknown,1,son,knife,yes,no,prison,home,relatives fight,hours
+113,03/03/2012,25,central,stranger,arith,1,causin,knife,unknown,no,kill him self,home,relatives fight,hours
+114,17/01/2012,32,central,nigger,unknown,1,husband,knife,unknown,no,kill him self,home,relatives fight,hours
+115,24/11/2013,60,south,IL,jew,1,husband,knife,unknown,no,prison,home,relatives fight ,hours
+116,22/10/2013,42,central,IL,jew,1,partner,knife,yes,no,prison,garden,partnerconflict,hours
+117,10/09/2013,55,south,IL,jew,1,causin,byhands,unknown,no,prison,home,relatives fight,hours
+118,01/09/2013,44,north,ILArab,unknown,1,father,pistol,yes,no,kill him self,office,relatives fight,hours
+119,01/09/2013,17,north,ILArab,unknown,1,father,pistol,yes,no,kill him self,street,relatives fight,hours
+120,01/09/2013,37,north,ILArab,unknown,1,husband,pistol,yes,no,kill him self,office,relatives fight,hours
+121,03/08/2013,45,central,stranger,unknown,1,partner,hammer,unknown,no,prison,home,partnerconflict,hours
+122,30/07/2013,29,central,stranger,arith,1,partner,knife,no,no,suspect arrested,home,partnerconflict,hours
+123,04/07/2013,34,south,ILArab,unknown,1,brother,pistol,no,no,suspect arrested,home,relatives fight,hours
+124,16/06/2013,57,north,ILArab,unknown,1,causin,knife,no,no,prison,home,relatives fight,days
+125,07/06/2013,43,south,nigger,arith,1,partner,knife,no,no,prison,home,partnerconflict,hours
+126,27/05/2013,57,north,IL,jew,1,son,knife,unknown,no,prison,home,relatives fight ,hours
+127,12/05/2013,28,central,IL,jew,1,husband,pistol,no,no,kill him self,home,relatives fight,hours
+128,09/05/2013,66,central,russian,unknown,1,husband,byhands,yes,no,prison,home,relatives fight,hours
+129,30/04/2013,39,unknown,russian,unknown,2,devorce,knife,no,yes,prison,home,relatives fight,hours
+130,28/04/2013,29,north,ILArab,unknown,1,brother,pistol,yes,no,prison,home,relatives fight ,hours
+131,26/03/2013,43,central,unknown,unknown,1,husband,pistol,unknown,no,suspect arrested,road,relatives fight ,hours
+132,11/03/2013,21,north,ILArab,unknown,1,brother,knife,no,no,suspect arrested,home,relatives fight ,hours
+133,09/03/2013,77,south,IL,jew,1,husband,knife,unknown,no,suspect arrested,home,relatives fight ,hours
+134,05/03/2013,82,central,IL,jew,1,husband,knife,unknown,no,prison,home,relatives fight ,hours
+135,04/03/2013,43,north,russian,unknown,1,partner,knife,no,no,kill him self,home,partnerconflict,hours
+136,15/01/2013,43,central,IL,jew,1,husband,byhands,no,no,suspect arrested,home,relatives fight,hours
+137,15/01/2013,30,central,stranger,arith,1,husband,byhands,unknown,no,suspect arrested,home,relatives fight,hours
+138,30/12/2014,48,south,russian,unknown,1,expartner,knife,yes,no,suspect arrested,home,partnerconflict,hours
+139,22/12/2014,41,south,nigger,unknown,1,husband,knife,no,no,kill him self,home,relatives fight,hours
+140,02/12/2014,67,south,IL,jew,1,neighbor,unknown,yes,no,suspect arrested,home,unknown,hours
+141,25/10/2014,31,central,ILArab,unknown,4,devorce brodevorce causin husband,pistol,yes,no,suspect arrested,home,relatives fight,hours
+142,04/09/2014,45,south,IL,jew,1,husband,knife,yes,no,suspect arrested,home,relatives fight ,hours
+143,23/08/2014,26,central,ILArab,unknown,1,dautgherofex,unknown,no,yes,suspect arrested,unknown,unknown,months
+144,14/08/2014,49,central,IL,jew,1,husband,hammer,yes,no,suspect arrested,home,relatives fight,days
+145,24/07/2014,48,north,ILArab,unknown,unknown,unknown,pistol,yes,no,uncaught,home,unknown,hours
+146,12/06/2014,14,north,ILArab,unknown,4,bro threefriends,pistol,yes,no,suspect arrested,home,relatives fight ,hours
+147,11/06/2014,77,north,ILArab,unknown,1,husband,hammer,no,no,prison,home,relatives fight,hours
+148,01/05/2014,30,south,russian,unknown,1,husband,knife,unknown,no,prison,home,relatives fight ,hours
+149,14/03/2014,38,central,ILArab,unknown,unknown,unknown,pistol,unknown,unknown,uncaught,street,unknown,hours
+150,13/02/2014,54,central,ILArab,unknown,1,son,knife,unknown,no,suspect arrested,unknown,relatives fight,hours
+151,31/01/2014,60,south,unknown,unknown,1,husband,hammer,yes,no,suspect arrested,home,relatives fight ,hours
+152,17/01/2014,43,central,russian,unknown,1,husband,hammer,no,no,prison,home,relatives fight ,hours
+153,20/12/2016,17,north,ILArab,unknown,1,student,knife,no,no,suspect arrested,street,broken heart,hours
+154,20/12/2016,31,north,IL,jew,1,partner,byhands,yes,no,prison,street,partnerconflict,hours
+155,26/10/2016,37,central,ILArab,unknown,1,brother,knife,no,no,suspect arrested,home,relatives fight ,hours
+156,24/10/2016,20,north,ILArab,unknown,1,husband,byhands,yes,no,suspect arrested,home,relatives fight ,hours
+157,23/10/2016,44,central,ILArab,unknown,1,husband,byhands,no,no,prison,street,relatives fight,hours
+158,23/09/2016,32,central,ILArab,unknown,1,unknown,pistol,yes,no,suspect arrested,street,unknown,hours
+159,23/08/2016,35,north,ILArab,unknown,1,partner,byhands,no,no,suspect arrested,home,partnerconflict,hours
+160,26/07/2016,47,north,ILArab,unknown,unknown,unknown,pistol,unknown,unknown,uncaught,home,unknown,hours
+161,15/05/2016,72,north,IL,unknown,1,son,byhands,yes,no,suspect arrested,home,relatives fight,hours
+162,25/05/2016,29,central,russian,unknown,1,partner,pistol,yes,no,uncaught,home,partnerconflict,hours
+163,29/04/2016,67,central,unknown,unknown,1,daugther,unknown,no,yes,suspect arrested,home,relatives fight ,hours
+164,13/04/2016,75,north,IL,unknown,1,unknown,byhands,no,no,uncaught,home,unknown,hours
+165,20/03/2016,53,central,IL,unknown,1,husband,pistol,no,no,kill him self,home,unknown,hours
+166,18/02/2016,18,central,IL,unknown,2,Sister Husband,knife,no,yes,suspect arrested,home,relatives fight ,hours
+167,03/02/2016,69,central,russian,unknown,1,husband,hammer,no,no,suspect arrested,home,relatives fight ,hours
+168,31/01/2016,39,north,ILArab,unknown,unknown,unknown,pistol,no,no,uncaught,home,unknown,hours
+169,17/01/2016,50,central,IL,jew,1,devorce,knife,no,no,kill him self,home,relatives fight ,hours
+170,13/01/2016,19,north,ILArab,unknown,1,brother,byhands,yes,no,suspect arrested,home,relatives fight,hours
+171,27/12/2015,18,north,ILArab,unknown,1,mother,pistol,no,yes,suspect arrested,home,relatives fight,hours
+172,09/12/2015,67,central,IL,unknown,1,husband,byhands,yes,no,prison,home,relatives fight ,hours
+173,17/11/2015,28,central,ILArab,unknown,1,unknown,pistol,unknown,unknown,uncaught,street,unknown,hours
+174,17/11/2015,50,central,ILArab,unknown,1,unknown,pistol,unknown,unknown,uncaught,street,unknown,hours
+175,12/11/2015,19,central,ILArab,unknown,1,unknown,pistol,unknown,unknown,uncaught,street,unknown,hours
+176,05/11/2015,39,north,ILArab,unknown,1,husband,pistol,yes,no,suspect arrested,street,relatives fight ,hours
+177,25/10/2015,35,central,nigger,unknown,1,husband,knife,yes,no,suspect arrested,home,relatives fight ,hours
+178,26/09/2015,30,north,ILArab,unknown,1,devorce,unknown,yes,no,suspect arrested,street,relatives fight ,hours
+179,28/09/2015,29,central,unknown,unknown,1,partner,byhands,no,no,suspect arrested,street,partnerconflict,hours
+180,17/09/2015,31,central,russian,unknown,1,husband,knife,no,no,suspect arrested,home,relatives fight,hours
+181,11/09/2015,30,central,russian,unknown,1,husband,knife,no,no,suspect arrested,home,relatives fight ,hours
+182,22/07/2015,22,central,ILArab,unknown,1,father,byhands,no,no,suspect arrested,home,relatives fight ,hours
+183,15/08/2015,22,south,ILArab,unknown,1,partner,unknown,no,no,suspect arrested,street,unknown,hours
+184,23/06/2015,42,north,ILArab,unknown,1,son,pistol,no,no,suspect arrested,home,relatives fight,hours
+185,16/06/2015,45,north,IL,jew,1,partner,knife,no,no,suspect arrested,home,partnerconflict,hours
+186,01/06/2015,38,central,russian,unknown,1,devorce,knife,yes,no,suspect arrested,home,partnerconflict,hours
+187,02/05/2015,50,north,ILArab,muslim,1,son,knife,no,no,suspect arrested,home,relatives fight ,hours
+188,02/03/2015,30,north,ILArab,unknown,1,husband,burnalive,no,no,suspect arrested,street,relatives fight ,hours
